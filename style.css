@@ -1,0 +1,63 @@
+body{
+    background-color: #ffd480;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: brown;
+    text-align: center;
+    margin: 20px;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    color: brown;
+    padding: 8px;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #6E5C14;
+    padding: 2px;
+}
+.summary {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #CDA523;
+    text-align: center;
+    padding: 4px;
+}
+#zen-intro {
+    text-align: center;
+    letter-spacing: 0.3em
+
+}
+#zen-summary {
+    margin-block-end: 10px;
+}
+#zen-preamble {
+    letter-spacing: 0.2em
+}
+#zen-design {
+    letter-spacing: 0.1em
+}
+.design-selection {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #CDA523;
+}
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: grey;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #CDA523;
+}
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #999;
+}
