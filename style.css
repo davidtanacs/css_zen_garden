@@ -3,26 +3,26 @@ body{
 }
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 36px;
+    font-size: 42px;
     color: brown;
     text-align: center;
     margin: 20px;
 }
 h2 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 26px;
+    font-size: 32px;
     color: brown;
-    padding: 8px;
+    padding: -8px;
 }
 h3 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 26px;
     color: #6E5C14;
     padding: 2px;
 }
 .summary {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 20px;
     color: #CDA523;
     text-align: center;
     padding: 4px;
@@ -43,21 +43,26 @@ h3 {
 }
 .design-selection {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 20px;
     color: #CDA523;
 }
 a {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 20px;
     color: grey;
 }
 p {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 20px;
     color: #CDA523;
+    text-align: center;
 }
 footer {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     color: #999;
+}
+ul {
+    list-style-position: inside;
+    list-style-image: url('http://www.item24.de/typo3conf/ext/typo3sz_assets/Resources/Public/Images/Svg/item_Icon_Nummern_Standort.svg');
 }
